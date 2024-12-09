@@ -21,9 +21,14 @@ We believe that work should do good and feel good. It’s something we’re pret
 <img src="https://1994.co.uk/img/asset/YXNzZXRzL3RlYW0vYnVzaW5lc3NfaW1hZ2VzLTgyX3dlYnNpemUtKDEpLmpwZw==?p=2xl-webp" />
 
 ## Our Expertise
-- [Web Application](https://1994.co.uk/services/web-applications)
-- [Laravel](https://1994.co.uk/laravel)
-- [Statamic](https://1994.co.uk/statamic)
-- [Mobile Applications](https://1994.co.uk/services/mobile-applications)
-- [E-commerce](https://1994.co.uk/services/ecommerce)
-- [Support & Maintainance](https://1994.co.uk/services/support-and-maintenance)
+<a href="https://1994.co.uk/services/web-applications" target="_blank">Web Applications</a>
+
+<a href="https://1994.co.uk/laravel" target="_blank">Laravel</a>
+
+<a href="https://1994.co.uk/statamic" target="_blank">Statamic</a>
+
+<a href="https://1994.co.uk/services/mobile-applications" target="_blank">Mobile Applications</a>
+
+<a href="https://1994.co.uk/services/ecommerce" target="_blank">E-commerce</a>
+
+<a href="https://1994.co.uk/services/support-and-maintenance" target="_blank">Support & Maintainance</a>
